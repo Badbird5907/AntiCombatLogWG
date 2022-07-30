@@ -1,0 +1,7 @@
+name: AntiCombatLogWG
+version: '${project.version}'
+main: net.badbird5907.anticombatlogwg.AntiCombatLogWG
+api-version: 1.18
+depend:
+  - WorldGuard
+  - AntiCombatLog
